@@ -4,10 +4,10 @@
     console.log(i)
  }
 
-let str="string"  
+let str="pooja"  
 
-for(let i=0;i<str.length;i++){
-    console.log(str[i])
+for(let n=0;n<str.length;n++){
+    console.log(str[n])
 }
 
 let strng="string"
@@ -29,7 +29,7 @@ while(wloop<=10){
 
 //do whlie 
 
-let dloop=1
+let dloop=7
 do{
     console.log(dloop)
     dloop++

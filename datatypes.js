@@ -35,5 +35,15 @@ console.log(Array,typeof (arr))
 
 // funtion declaration 
 
+function info(name ,age){
+    console.log("hii i am ",name,"my age is",age,"noa i am in chittoor")
+}
+
+info("pooja",23)
+function info(name, age) {
+    console.log("Hi, I am " + name + ", my age is " + age + ", now I am in Chittoor");
+}
+
+info("pooja", 23);
 
 

@@ -1,4 +1,4 @@
-let arr=["india","thailand","russia","maldives","turkey"]
+let arr=["pooja","sai"]
 for  (i=0;i<arr.length;i++){
     console.log(arr[i])
 }

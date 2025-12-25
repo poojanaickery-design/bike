@@ -29,7 +29,7 @@ class flower{
     }
 }
 
-const rose=new flower("rose","red","mild","all season")
+let rose=new flower("rose","red","mild","all season")
 rose.fdetails()
 
 const jasmine=new flower("jasmine","white","heavy","summer")
